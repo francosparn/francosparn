@@ -1,7 +1,7 @@
 ## Hi! 👋 Im Franco
 Im Systems Analyst and C# .NET Developer
 
-#### ⚡ Technologies:
+#### 💡 Languages and Tools:
 
 - HTML
 - CSS
@@ -10,3 +10,6 @@ Im Systems Analyst and C# .NET Developer
 - C#
 - SQL Server
 - MySQL
+
+#### 🔍 Find me:
+- LinkedIn: www.linkedin.com/in/francosparn
