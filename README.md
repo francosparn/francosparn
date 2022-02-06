@@ -1,5 +1,5 @@
 ## Hi! 👋 I'm Franco
-Im Systems Analyst and C# .NET Developer
+Im <b>Systems Analyst</b> and <b>C# .NET Developer</b>
 
 #### 💡 Languages and Tools:
 
