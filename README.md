@@ -1,4 +1,4 @@
-## Hi! 👋 Im Franco
+## Hi! 👋 I'm Franco
 Im Systems Analyst and C# .NET Developer
 
 #### 💡 Languages and Tools:
