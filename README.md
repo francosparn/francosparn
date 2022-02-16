@@ -12,5 +12,5 @@ Im <b>Systems Analyst</b> and <b>C# .NET Developer</b>
 - MySQL
 
 #### 🔍 Find me:
-- Website: www.francosparn.github.io
-- LinkedIn: www.linkedin.com/in/francosparn
+- Website: https://francosparn.github.io
+- LinkedIn: https://linkedin.com/in/francosparn
