@@ -10,6 +10,7 @@ Im <b>Systems Analyst</b> and <b>C# .NET Developer</b>
 - C#
 - SQL Server
 - MySQL
+- Git
 
 #### 🔍 Find me:
 - Website: https://francosparn.github.io
