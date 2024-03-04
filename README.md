@@ -27,7 +27,7 @@ I specialize in technologies such as **React for frontend development** and **Dj
 #### Others:
 :small_blue_diamond: Git<br />
 :small_blue_diamond: Docker<br />
-:small_blue_diamond: Postman<br />
+:small_blue_diamond: Postman / Insomnia<br />
 :small_blue_diamond: Terminal
 
 :mag: **You can find it at**:
